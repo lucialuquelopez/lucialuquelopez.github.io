@@ -1,0 +1,42 @@
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+.row {
+    padding: 20px;
+    text-align: center;
+}
+
+.col-sm-3 {
+    background-color: #F1FFD6;
+    padding: 20px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.col-sm-4 {
+    background-color: #F1FFD6;
+    padding: 20px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.col-sm-5 {
+    background-color: #F1FFD6;
+    padding: 20px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.alert {
+    margin: 20px;
+}
+
+figure {
+    margin: 50px;
+}
+
+body {
+    margin-bottom: 100px;
+}
